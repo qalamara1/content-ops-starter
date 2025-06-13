@@ -23,7 +23,7 @@
         {
             "label": "Product",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/Product",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
